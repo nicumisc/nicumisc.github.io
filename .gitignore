@@ -1,0 +1,13 @@
+#CRUFT - AVOID UPLOADING BACKUP AND SWAP FILES TO GITHUB#
+*~
+*.bak
+*.tmp
+*.temp
+*.junk
+#FILES AND DIRECTORIES TO AVOID
+**/untracked
+**/gitignored
+**/tmp
+**/temp
+**/junk
+
